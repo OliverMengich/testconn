@@ -1,0 +1,7 @@
+C:\Users\olive\source\repos\TestingConn\TestingConn\bin\Debug\TestingConn.exe.config
+C:\Users\olive\source\repos\TestingConn\TestingConn\bin\Debug\TestingConn.exe
+C:\Users\olive\source\repos\TestingConn\TestingConn\bin\Debug\TestingConn.pdb
+C:\Users\olive\source\repos\TestingConn\TestingConn\obj\Debug\TestingConn.csprojAssemblyReference.cache
+C:\Users\olive\source\repos\TestingConn\TestingConn\obj\Debug\TestingConn.csproj.CoreCompileInputs.cache
+C:\Users\olive\source\repos\TestingConn\TestingConn\obj\Debug\TestingConn.exe
+C:\Users\olive\source\repos\TestingConn\TestingConn\obj\Debug\TestingConn.pdb
